@@ -146,7 +146,7 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
+    name: 'HR Performance Analysis',
     description: 'This project analyzes HR data from 2014–2019 to evaluate employee performance, compensation, productivity, and resignation trends.',
     tags: [
       {
